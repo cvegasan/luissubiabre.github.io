@@ -80,3 +80,12 @@ h2 {
   color: #9cb6dd;
   font-size: 15px;
 }
+
+.cc-github:hover {
+  color: #414e6e !important; }
+.cc-linkedin:hover {
+  color: #0077B5 !important; }
+.cc-youtube:hover {
+  color: #dd4b39 !important; }
+.cc-instagram:hover {
+  color:#f44f51 !important; }
